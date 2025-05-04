@@ -14,7 +14,7 @@
 - 💻 Software Developer with a focus on **Full-Stack Web Development**
 - 🌱 Constantly learning & exploring **modern frameworks and tools**
 - 🔭 Currently working on building clean, scalable, and responsive web apps
-- 🎯 Tech enthusiast & UX lover with a design touch via **Figma**
+- 🎯 Tech enthusiast & UX, with a design touch via **Figma**
 - 🤝 Actively collaborating on open source and private projects
 
 ---
